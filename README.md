@@ -8,7 +8,7 @@ The code is stored in /src directory, and documentation in /Documentation librar
 The documentation contains the requirements of the project, a class design of the project, and the test screenshots.
 
 # Class Organization
-![Image Title](./NumberRecognizerProject/Documentation/class%20design.pdf){width=65%}
+![Class_Diagram](./NumberRecognizerProject/Documentation/class_design.jpg){width=65%}
 
 # Sample Screenshots
 ![test_digit_0](./NumberRecognizerProject/Documentation/test_screenshot/000.png)
