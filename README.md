@@ -9,4 +9,7 @@ The documentation contains the requirements of the project, a class design of th
 
 # Class Organization
 ![Image Title](./NumberRecognizerProject/Documentation/class%20design.pdf){width=65%}
-![image info](./NumberRecognizerProject/Documentation/test_screenshot/000.png)
+
+# Sample Screenshots
+![test_digit_0](./NumberRecognizerProject/Documentation/test_screenshot/000.png)
+![test_digit_6](./NumberRecognizerProject/Documentation/test_screenshot/006.png)
